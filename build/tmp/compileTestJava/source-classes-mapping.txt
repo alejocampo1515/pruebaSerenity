@@ -1,0 +1,6 @@
+com/accenture/HolaMundoSerenity/steps/TesterSteps.java
+ com.accenture.HolaMundoSerenity.steps.TesterSteps
+com/accenture/HolaMundoSerenity/pages/GooglePage.java
+ com.accenture.HolaMundoSerenity.pages.GooglePage
+com/accenture/HolaMundoSerenity/features/search/HolaMundo.java
+ com.accenture.HolaMundoSerenity.features.search.HolaMundo
